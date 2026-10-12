@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 📍 Morocco | 🎓 1337 Coding School (42 Network)
 
-**Currently looking for a 6-month PFE internship in software development.**
-
 </div>
 
 ---
@@ -41,7 +39,6 @@ I enjoy building web applications, designing backend systems, implementing authe
 - 💻 Focused on backend development and full-stack applications.
 - 🔐 Interested in authentication, API development, and application security.
 - 🐳 Experienced with containerization and Linux environments.
-- 🚀 Currently looking for a **6-month PFE internship**.
 - 🌱 Always learning and improving through practical projects.
 
 ---
